@@ -6,6 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "say-hello": "echo 'Hello World!'",
+    "presay-hello": "echo 'I run before say-hello'",
+    "postsay-hello": "echo 'I run after say-hello'" ,
     "awesome-npm": "npm run say-hello && echo 'echo NPM is awesome!'",
     "bash-hello": "bash hello.sh",
     "js-add": "node add.js"
