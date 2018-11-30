@@ -1,0 +1,18 @@
+{
+  "name": "6668a1f6986742109c00a581ce704605-f6c882b6ae18bde42dcf6fdb751aae93495a2275",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say-hello": "echo 'Hello World!'",
+    "awesome-npm": "npm run say-hello && echo 'echo NPM is awesome!'",
+    "bash-hello": "bash hello.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "terser": "^3.10.13"
+  }
+}
